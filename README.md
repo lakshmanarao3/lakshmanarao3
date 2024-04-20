@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-yellow" alt="AWS Solutions Architect">
 </p>
 
-- 🌱 I’m currently learning **ebpf, HTMX**
+- 🌱 I’m currently learning **Dynatrace, ebpf**
 
 - 💬 Ask me about **kubernetes, docker, ansible, terraform**
 
