@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-blue" alt="CKA">
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-yellow" alt="AWS Solutions Architect">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Security%20Engineer-brightgreen" alt="Google Cloud Certified Professional Cloud Security Engineer">
 </p>
 
 - 🌱 I’m currently learning **Dynatrace, ebpf**
